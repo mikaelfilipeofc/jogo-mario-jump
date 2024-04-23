@@ -4,7 +4,7 @@ Mario Jump é um jogo inspirado no jogo do Dino T-rex, esse é um projeto simple
 
 ### Preview 👀
 
-(https://portmikael.netlify.app/)
+(https://m4ri0jumpj0g0.netlify.app/)
 
 
 
